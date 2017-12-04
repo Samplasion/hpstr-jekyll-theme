@@ -26,3 +26,8 @@ sitemap: false
 @import "animations";
 @import "dl-menu";
 @import "page";
+
+// Custom css
+code a {
+  color: white;
+}
