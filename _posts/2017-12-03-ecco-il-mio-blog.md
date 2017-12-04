@@ -16,3 +16,4 @@ Che ho ovviamente messo con un tag `<audio>`:
 {% endhighlight %}
 
 Quindi vi starete chiedendo come ci sono finito qui?<br>
+In effetti sono su GitHub da luglio e, devo dire, non è niente male. L'unica pecca è l'impossibilità di avviare script PHP.
