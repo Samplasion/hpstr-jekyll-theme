@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url:              https://samplasion.github.io/it
 
 # Owner/author information
 owner:
@@ -20,7 +20,7 @@ owner:
   stackexchange:
   linkedin:
   instagram:
-  flickr:         
+  flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
