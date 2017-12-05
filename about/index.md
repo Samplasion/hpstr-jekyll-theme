@@ -8,7 +8,7 @@ image:
 comments: false
 modified: 2017-12-05
 ---
-{{ site.author.bio }}
+{{ site.owner.bio }}
 <small><aside>Sesso: Maschio<br>Località: Roma, Italia</aside></small> [^1]
 
 [^1]: Inclusi in `<small><aside>`
