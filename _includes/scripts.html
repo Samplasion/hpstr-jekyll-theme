@@ -17,3 +17,13 @@
 {% endif %}
 
 {% if page.comments != false %}{% include disqus_comments.html %}{% endif %}
+
+<script type="text/javascript">
+    (function(){
+       var foxscript = document.createElement('script');
+           foxscript.src = '//js.foxpush.com/samplasiongithubio.js?v='+Math.random();
+           foxscript.type = 'text/javascript';
+           foxscript.async = 'true';
+       var fox_s = document.getElementsByTagName('script')[0];
+       fox_s.parentNode.insertBefore(foxscript, fox_s);})();
+</script>
