@@ -9,4 +9,4 @@ comments: false
 modified: 2017-12-05
 ---
 {{ site.owner.bio }}
-<aside>Sesso: Maschio<br>Località: Roma, Italia</small>
+<small>Sesso: Maschio<br>Località: Roma, Italia</small>
