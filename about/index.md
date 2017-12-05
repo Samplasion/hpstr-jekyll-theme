@@ -9,6 +9,4 @@ comments: false
 modified: 2017-12-05
 ---
 {{ site.owner.bio }}
-<small><aside>Sesso: Maschio<br>Località: Roma, Italia</aside></small> [^1]
-
-[^1]: Inclusi in `<small><aside>`
+<aside>Sesso: Maschio<br>Località: Roma, Italia</small>
