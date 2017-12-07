@@ -1,6 +1,6 @@
 ---
 image:
-  background: it/images/witewall_3.png
+  background: triangular.png
 title: "Traduzione: OK!"
 description: "Tutte le stringhe sono state tradotte, <i><b>ad eccezione di una</b></i>..."
 tags: traduzione
