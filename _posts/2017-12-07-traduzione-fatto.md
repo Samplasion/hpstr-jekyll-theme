@@ -1,6 +1,6 @@
 ---
 image:
-  background: /images/triangular.png
+  background: /it/images/triangular.png
 title: "Traduzione: OK!"
 description: "Tutte le stringhe sono state tradotte, **_ad eccezione di una_**..."
 tags: traduzione
