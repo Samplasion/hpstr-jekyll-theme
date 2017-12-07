@@ -1,6 +1,6 @@
 ---
 title: "Ecco il mio blog"
-excerpt: "Stavolta quello personale..."
+description: "Stavolta quello personale..."
 date: 2017-12-03 10:19:00 +0100
 tags: intro
 ---
