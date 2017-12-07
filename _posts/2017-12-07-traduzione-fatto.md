@@ -1,8 +1,8 @@
 ---
 image:
-  background: /it/images/triangular.png
+  background: it/images/triangular.png
 title: "Traduzione: OK!"
-description: "Tutte le stringhe sono state tradotte, **_ad eccezione di una_**..."
+description: "Tutte le stringhe sono state tradotte, <i><b>ad eccezione di una</b></i>..."
 tags: traduzione
 categories: sito
 date: 2017-12-07 20:44 +0100
