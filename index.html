@@ -34,8 +34,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.excerpt }}
-    <br /><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">Leggi altro ></a>
+    {% if post.description %}{{ post.description }} <br /><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">Leggi altro...</a>{% else %}{{ post.content }}{% endif %}
+   
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
