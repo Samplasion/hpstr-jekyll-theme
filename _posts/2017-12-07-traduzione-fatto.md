@@ -1,5 +1,5 @@
 ---
-title: "La mia “Proprietà sulle moltiplicazioni"
+title: "La mia “Proprietà sulle moltiplicazioni”"
 date: 2017-12-07 11:34:00 +0100
 excerpt: "Trovata di sana pianta dal sottoscritto!"
 categories: matematica
