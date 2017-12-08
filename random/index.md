@@ -58,7 +58,7 @@ comments: false
 </div>
 <p id="p"></p>
 <script>
-var id1 = document.getElementById('id1'); var id2 = $( '#id' );
+var id1 = document.getElementById('mmb_pswitch');
 if (id1.checked = true) {
   $( '#p' ).html = "lol"
 }
