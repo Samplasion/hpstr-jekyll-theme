@@ -59,7 +59,7 @@ comments: false
 <p id="p"></p>
 <script>
 var id1 = document.getElementById('mmb_pswitch');
-if (id1.checked = true) {
+if (id1.checked == true) {
   $( '#p' ).html = "lol"
 }
 </script>
