@@ -2,7 +2,7 @@ title:            SamplasionBlog
 description:      Il mio fantastico blog.
 disqus_shortname: samplasionblog
 reading_time:     true
-words_per_minute: 100
+words_per_minute: 80
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:              https://samplasion.github.io/it
@@ -15,7 +15,7 @@ owner:
   bio:            "Sono uno sviluppatore amatoriale tredicenne da Roma. Le mie passioni sono il computer, Nintendo e tutto ciò che riguarda il computer e il modding."
   email:          ercolino2004@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        samplasion
   facebook:
   github:         Samplasion
   stackexchange:
