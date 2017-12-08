@@ -31,3 +31,11 @@ sitemap: false
 code a {
   color: white;
 }
+input[type=checkbox] {
+    background: url('http://i.imgur.com/40nmlmK.png') no-repeat;
+    background-position: -16px -14px;
+  &:checked {
+    background: url('http://i.imgur.com/40nmlmK.png') no-repeat;
+    background-position: -16px 4px;
+  }
+}
