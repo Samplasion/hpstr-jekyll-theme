@@ -64,3 +64,6 @@ layout: post
   It is limited, though. The P-Switch has to be placed before the blocks and coins in HTML, and all have to be in the same container.
 </div>
 {% endhighlight %}
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div&gt;</span><br data-jekyll-commonmark-ghpages="">  <span class="nt">&lt;style&gt;</span><br data-jekyll-commonmark-ghpages="">... <br data-jekyll-commonmark-ghpages="">
+   &lt;/style&gt;</span>
+<br data-jekyll-commonmark-ghpages=""><span class="nt">&lt;/div&gt;</span></code></pre></figure>
