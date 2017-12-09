@@ -4,7 +4,7 @@ date: 2017-12-08 13:30:00 +0100
 mathjax: false
 categories: codice
 layout: post
-description: "<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div&gt;</span><br data-jekyll-commonmark-ghpages="">  <span class="nt">&lt;style&gt;</span><br data-jekyll-commonmark-ghpages="">... <br data-jekyll-commonmark-ghpages="">   &lt;/style&gt;</span><br data-jekyll-commonmark-ghpages=""><span class="nt">&lt;/div&gt;</span></code></pre></figure>"
+description: "<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;div&gt;</span><br data-jekyll-commonmark-ghpages="">  <span class="nt">&lt;style&gt;</span><br data-jekyll-commonmark-ghpages="">... <br data-jekyll-commonmark-ghpages="">  &lt;/style&gt;</span><br data-jekyll-commonmark-ghpages=""><span class="nt">&lt;/div&gt;</span></code></pre></figure>"
 ---
 {% highlight html %}
 <div>
