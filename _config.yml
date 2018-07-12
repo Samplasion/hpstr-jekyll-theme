@@ -12,12 +12,14 @@ lang:             it
 owner:
   name:           Samplasion
   avatar:         avatar.jpg
-  bio:            "Sono uno sviluppatore amatoriale tredicenne da Roma. Le mie passioni sono il computer, Nintendo e tutto ciò che riguarda il computer e il modding."
+  bio:            "Sono uno sviluppatore amatoriale quattordicenne da Roma. Le mie passioni sono il computer, Nintendo e tutto ciò che riguarda essi e il modding."
   email:          ercolino2004@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        samplasion
+  # twitter:        samplasion
   facebook:
   github:         Samplasion
+  # channel id (eg: the part afrer /channel/)
+  yt:             UCEr50RtGpOCGD8I_HyX_JrQ
   stackexchange:
   linkedin:
   instagram:
@@ -37,7 +39,7 @@ bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Rome
-future:      false  # publish future dated posts --  true, false (default)
+future:      true  # publish future dated posts --  true, false (default)
 highlighter: rouge
 markdown:    kramdown
 gems:
